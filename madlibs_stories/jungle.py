@@ -34,7 +34,8 @@ def madlib():
     jungle. I meet my parents at the tent. Phew! It’s been an exciting day in \
     the jungle."
 
-    print(madlib)
+
+    print('Title: Jungle Mad Lib >>', madlib)
 
 
 if __name__ == '__main__':

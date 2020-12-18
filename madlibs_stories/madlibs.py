@@ -26,4 +26,4 @@ exactly what the other one wanted: one more round. You put \
 on {nameMusician}'s greatest hits, lit a few {food}-scented \
 candles and knocked {pluralShoesBrand} for {number} more hours!"
 
-    print(madlib)
+    print('Title: Crush Mad Lib >>', madlib)

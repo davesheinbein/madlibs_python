@@ -20,7 +20,7 @@ I went to get a {adj3} scoop of ice cream. It filled my stomach. \
 Afterwards I had to {verb2} {adverb} to catch our bus. When I got \
 home I {verb3} my mom for a {adj4} day at the zoo."
 
-    print(madlib)
+    print('Title: Zoo Mad Lib >>', madlib)
 
 
 if __name__ == '__main__':
