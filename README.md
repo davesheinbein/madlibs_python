@@ -1,8 +1,5 @@
 # **Python Mad Libs**
 
-<!-- ### Click the link to view the website
-
-[Amazon Mock UI Website](https://clone-ds.web.app/) -->
 
 ### About
 
@@ -21,12 +18,6 @@
 #### LinkedIn:
 
 ##### https://www.linkedin.com/in/david-sheinbein/
-
-<!-- ## Screenshot:
-
-![Home Page Sceenshot](screenshots/homeScreenshot.png)
-
-[Home Page Sceenshot](https://imgur.com/3Ua2jzo) -->
 
 ## Technologies Used:
 
